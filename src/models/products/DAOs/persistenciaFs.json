@@ -1,0 +1,86 @@
+[
+	{
+		"nombre": "lapiz",
+		"timestamp": "2021-12-09T22:42:55.992Z",
+		"descripcion": "Lapiz HB negro",
+		"codigo": "codigoLapiz",
+		"fotoUrl": "url/lapiz",
+		"precio": 100,
+		"stock": 10,
+		"_id": "1",
+		"id": "1",
+		"FyH": "2021-12-09T22:42:55.992Z"
+	},
+	{
+		"nombre": "goma",
+		"timestamp": "2021-12-09T22:42:55.992Z",
+		"descripcion": "goma blanca",
+		"codigo": "codigoGoma",
+		"fotoUrl": "url/goma",
+		"precio": 200,
+		"stock": 20,
+		"_id": "2",
+		"id": "2",
+		"FyH": "2021-12-09T22:42:55.992Z"
+	},
+	{
+		"nombre": "calculadora",
+		"timestamp": "2021-12-09T22:42:55.992Z",
+		"descripcion": "calculadora cientifica",
+		"codigo": "codigoCalculadora",
+		"fotoUrl": "url/calculadora",
+		"precio": 300,
+		"stock": 30,
+		"_id": "3",
+		"id": "3",
+		"FyH": "2021-12-09T22:42:55.992Z"
+	},
+	{
+		"nombre": "escuadra",
+		"timestamp": "2021-12-09T22:42:55.992Z",
+		"descripcion": "escuadra 45 grados",
+		"codigo": "codigoEscuadra",
+		"fotoUrl": "url/escuadra",
+		"precio": 400,
+		"stock": 40,
+		"_id": "4",
+		"id": "4",
+		"FyH": "2021-12-09T22:42:55.992Z"
+	},
+	{
+		"nombre": "regla",
+		"timestamp": "2021-12-09T22:42:55.992Z",
+		"descripcion": "regla 20cm transparente",
+		"codigo": "codigoRegla",
+		"fotoUrl": "url/regla",
+		"precio": 500,
+		"stock": 50,
+		"_id": "5",
+		"id": "5",
+		"FyH": "2021-12-09T22:42:55.992Z"
+	},
+	{
+		"nombre": "lapiz",
+		"timestamp": "2021-12-09T22:42:55.992Z",
+		"descripcion": "Lapiz HB negro",
+		"codigo": "codigoLapiz",
+		"fotoUrl": "url/lapiz",
+		"precio": 10,
+		"stock": 10,
+		"_id": "6",
+		"id": "6",
+		"FyH": "2021-12-09T22:42:55.992Z"
+	},
+	{
+		"nombre": "terminal",
+		"timestamp": "2021-12-09T22:42:56.000Z",
+		"descripcion": "descripcionRepository",
+		"codigo": "codigoRepository",
+		"fotoUrl": "fotoUrlRepository",
+		"precio": 10001,
+		"stock": 1234,
+		"_id": "7",
+		"id": "7",
+		"FyH": "2021-12-09T22:42:56.000Z"
+	}
+]
